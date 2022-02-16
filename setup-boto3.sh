@@ -1,5 +1,5 @@
 #!/bin/bash
 sudo apt-get update
-apt-get install pip
+apt-get install -y pip
 pip install boto3
 
